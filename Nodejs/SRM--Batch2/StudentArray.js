@@ -43,3 +43,10 @@ Student.sort(function(a, b) {
     console.log("|||||||||||||||||||||-----add 20-----|||||||||||||||||||||");
         console.log(Student);
     
+    console.log("|||||||||||||||||||||-----filter-----|||||||||||||||||||||");
+    var result = Student.filter(citysort => {
+    return citysort.city == "Chennai" || citysort.city == "Banglore";
+});
+    
+console.log(result);
+    
