@@ -14,9 +14,9 @@ public class Amstrong {
         }
 
         if(result == n)
-            System.out.println(number + " is an Armstrong number.");
+            System.out.println(n + " is an Armstrong number.");
         else
-            System.out.println(number + " is not an Armstrong number.");
+            System.out.println(n + " is not an Armstrong number.");
   
 
 	
