@@ -3,7 +3,7 @@ public class Prime_sumofdigit {
   public static void main(String[] args) {
 
     int num = 29;
-    int temp = 0;
+    int temp = 0,flag =0;
     for (int i = 2; i <= num / 2; ++i) {
       if (num % i == 0) {
         flag++;
