@@ -24,16 +24,16 @@ public class Add_Mul_Matrix {
 			sum=0;
 			for ( int k= 0 ; k <r2;k++ )
 			{
-				sum +=mat1[i][k]*mat2[k][j] ;
+				sum +=a[i][k]*b[k][j] ;
  
 			}
 			res[i][j]=sum;
 		}
 
 	}
-	for ( i= 0 ; i < r1; i++ )
+	for ( int i= 0 ; i < 3; i++ )
 	{
-		for ( j=0 ; j < c2;j++ )
+		for ( int j=0 ; j < 3;j++ )
 			System.out.print(res[i][j]+" ");
  
 		System.out.println();
