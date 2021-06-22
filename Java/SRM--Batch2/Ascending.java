@@ -2,12 +2,12 @@ public class Ascending {
 
   public static void main(String[] args) {
 
-    int num[]=[6,9,1,0,4,88,44,61,2,-4];
+    int num[]={6,9,1,0,4,88,44,61,2,-4};
     int temp=0;
 
-    for (int i = 0; i < count; i++) 
+    for (int i = 0; i < 10; i++) 
         {
-            for (int j = i + 1; j < count; j++) { 
+            for (int j = i + 1; j < 10; j++) { 
                 if (num[i] > num[j]) 
                 {
                     temp = num[i];
@@ -17,7 +17,7 @@ public class Ascending {
             }
         }
         System.out.print("Array Elements in Ascending Order: ");
-        for (int i = 0; i < count - 1; i++) 
+        for (int i = 0; i < 10 - 1; i++) 
         {
             System.out.print(num[i] + ", ");
         }
