@@ -4,8 +4,8 @@ public class Sum_rowcol {
 
     	int a[][]={{1,2,4},{7,5,9},{1,0,5}};    
 	          
-	rows = a.length;    
-        cols = a[0].length;    
+	int rows = a.length;    
+        int cols = a[0].length;    
             
         int sumRow=0,sumCol=0; 
         for(int i = 0; i < rows; i++){    
