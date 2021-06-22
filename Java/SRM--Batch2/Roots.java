@@ -4,8 +4,8 @@ public class Roots {
 
     float a=6,b=11,c=-35;
     System.out.println(" Equation should be in the form of ax^2+bx+c=0");
-    float determinant = b * b - 4 * a * c;
-    float rrot1,root2;
+    double determinant = b * b - 4 * a * c;
+    double root1,root2;
 
     if (determinant > 0) {
 
