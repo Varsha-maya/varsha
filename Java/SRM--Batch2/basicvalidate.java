@@ -37,12 +37,13 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner (System.in) ;
+		Scanner s1=new Scanner (System.in) ;
         int a,b;
         String c;
         System.out.println("Enter the emp no");
         a=s.nextInt();
         System.out.println("Enter the name");
-        c=s.nextLine();
+        c=s1.nextLine();
         System.out.println("Enter the Basic pay");
         b=s.nextInt();
 		 Employee obj=new Employee(a,c,b);
