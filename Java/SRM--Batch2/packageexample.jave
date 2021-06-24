@@ -1,0 +1,16 @@
+package firstone;
+public class A{
+public void display(){
+System.out.println("I am from class A");
+}
+}
+
+
+package secondone;
+import  firstone.*;
+public class B{
+public static void main(String a[]){
+firstone obj=new firstone();
+obj.display();
+}
+}
