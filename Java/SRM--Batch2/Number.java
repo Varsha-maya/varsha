@@ -119,7 +119,7 @@ void disp_fac(double no) {
 	System.out.println();
 }
 void disp_binary(double no) {
-	System.out.println("binary fn called");
+	System.out.println(System.out.println("ByteValue of lg :" + Long.toBinaryString(num));
 }
 public void getdata()
 {
