@@ -48,5 +48,23 @@ Student.sort(function(a, b) {
     return citysort.city == "Chennai" || citysort.city == "Banglore";
 });
     
-console.log(result);
+    students.sort((a, b) => 
+{
+    let fa = a.name.toLowerCase(),
+
+        fb = b.name.toLowerCase();
+
+    if (fa < fb) {
+        return -1;
+    }
+    if (fa > fb) {
+        return 1;
+    }
+    return 0;
+});
+students.forEach((e) => {
+    console.log(`NAME: ${e.name} Stuednt id: ${e.id} Mark: ${e.marks} City: ${e.city}`);
+});
+    
+   
     
