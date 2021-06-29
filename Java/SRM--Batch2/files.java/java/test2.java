@@ -6,7 +6,7 @@ class copyfile {
  public static void main(String arg[]) throws IOException {  
 	 
 	 FileWriter file = new FileWriter("javaFile123.txt");
-	 file.write("Hi Iam Varsha N from SRM Technologies , My employee id is A78833.");
+	 file.write("Hi Iam Varsha N from SRM Technologies , My employee id is A79879.");
 	 System.out.println("Successfully written");
 	 String line=null;
 	 
