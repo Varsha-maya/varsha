@@ -11,7 +11,6 @@ function App() {
       <div className="name">
        <h1>User Name: VARSHA</h1>
        </div>
-      <div className="date">
       <h1>{value}</h1>
       </div>  
     </div>
