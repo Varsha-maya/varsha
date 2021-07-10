@@ -1,0 +1,235 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "country": "USA"
+    },
+    {
+      "id": 3,
+      "country": "China"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "dept": "Electronics and Communication Engineering"
+    },
+    {
+      "id": 2,
+      "dept": "Electrical and Electronics Engineering"
+    },
+    {
+      "id": 3,
+      "dept": "Computer Science Engineering"
+    },
+    {
+      "id": 4,
+      "dept": "Civil Engineering"
+    },
+    {
+      "id": 5,
+      "dept": "Mechanical Engineering"
+    },
+    {
+      "id": 6,
+      "dept": "Information Technology"
+    }
+  ],
+  "batches": [
+    {
+      "id": 1,
+      "bat": "2018-2022"
+    },
+    {
+      "id": 2,
+      "bat": "2017-2021"
+    },
+    {
+      "id": 3,
+      "bat": "2016-2020"
+    },
+    {
+      "id": 4,
+      "bat": "2015-2019"
+    },
+    {
+      "id": 5,
+      "bat": "2014-2018"
+    },
+    {
+      "id": 6,
+      "bat": "2013-2017"
+    }
+  ],
+  "user": [
+    {
+      "id": 1
+    },
+    {
+      "roll": "17041",
+      "fname": "varsha",
+      "lname": "N",
+      "ffname": "Nagas",
+      "dept": "cse",
+      "bat": "1620",
+      "mob": "9994579380",
+      "age": "20",
+      "mail": "varshu69.nva@gmail.com",
+      "city": "1",
+      "id": 2
+    },
+    {
+      "roll": "17041",
+      "fname": "varsha",
+      "lname": "N",
+      "ffname": "Nagas",
+      "dept": "cse",
+      "bat": "1620",
+      "mob": "9994579380",
+      "age": "20",
+      "mail": "varshu69.nva@gmail.com",
+      "city": -1,
+      "country": "2",
+      "id": 3
+    },
+    {
+      "roll": "17041222",
+      "fname": "Varsha",
+      "lname": "Nagu",
+      "ffname": "Nagas",
+      "dept": "Electronics and Communication Engineering",
+      "bat": "2017-2021",
+      "mob": "9994579380",
+      "age": "21",
+      "mail": "varshu69.nva@gmail.com",
+      "country": "India",
+      "id": 4
+    },
+    {
+      "roll": "hjkk",
+      "fname": "varsha",
+      "lname": "cxv",
+      "ffname": "Nagas",
+      "dept": "Computer Science Engineering",
+      "bat": "2017-2021",
+      "mob": "9994579380",
+      "age": "21",
+      "mail": "varshu69.nva@gmail.com",
+      "country": "China",
+      "id": 5
+    },
+    {
+      "roll": "1703488",
+      "fname": "varsha",
+      "lname": "N",
+      "ffname": "Nagas",
+      "dept": "Computer Science Engineering",
+      "bat": "2017-2021",
+      "mob": "9994579380",
+      "age": "21",
+      "mail": "varshu69.nva@gmail.com",
+      "country": "China",
+      "id": 6
+    }
+  ],
+  "user1": [
+    {
+      "id": 1
+    },
+    {
+      "roll": "11",
+      "fname": "chitra",
+      "lname": "nagu",
+      "ffname": "venkat",
+      "dept": "Computer Science Engineering",
+      "bat": "2017-2021",
+      "mob": "9454423251542",
+      "age": "30",
+      "mail": "yfruyg@kuh.com",
+      "country": "China",
+      "id": 2
+    },
+    {
+      "roll": "223",
+      "fname": "Varsha",
+      "lname": "Maya",
+      "ffname": "Nagasubramanian",
+      "dept": "Electronics and Communication Engineering",
+      "bat": "2017-2021",
+      "mob": "698741256366",
+      "age": "21",
+      "mail": "ksdbck@js.com",
+      "country": "China",
+      "id": 3
+    },
+    {
+      "roll": "455",
+      "fname": "Subeesh ",
+      "lname": "raja",
+      "ffname": "seker",
+      "dept": "Computer Science Engineering",
+      "bat": "2014-2018",
+      "mob": "546513521365",
+      "age": "28",
+      "mail": "s@.djf",
+      "country": "China",
+      "id": 4
+    },
+    {
+      "roll": "17041",
+      "fname": "Guna",
+      "lname": "Raman",
+      "ffname": "subbu",
+      "dept": "Mechanical Engineering",
+      "bat": "2014-2018",
+      "mob": "832175456456",
+      "age": "25",
+      "mail": "dh@nc.com",
+      "country": "USA",
+      "id": 5
+    },
+    {
+      "roll": "3453",
+      "fname": "Amal",
+      "lname": "Nath",
+      "ffname": "venkat",
+      "dept": "Mechanical Engineering",
+      "bat": "2015-2019",
+      "mob": "54769463",
+      "age": "26",
+      "mail": "efs@djk.cfs",
+      "country": "China",
+      "id": 6
+    },
+    {
+      "roll": "324",
+      "fname": "Krishna",
+      "lname": "Prabha",
+      "ffname": "Muruga",
+      "dept": "Information Technology",
+      "bat": "2016-2020",
+      "mob": "126546485",
+      "age": "23",
+      "mail": "sdhshk@df.fv",
+      "country": "India",
+      "id": 7
+    },
+    {
+      "roll": "456",
+      "fname": "Srinithi",
+      "lname": "Abinaya",
+      "ffname": "Giri",
+      "dept": "Electrical and Electronics Engineering",
+      "bat": "2017-2021",
+      "mob": "7566514554",
+      "age": "22",
+      "mail": "sd@sd.sh",
+      "country": "USA",
+      "id": 8
+    }
+  ]
+}

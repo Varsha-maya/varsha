@@ -1,0 +1,73 @@
+.App {
+  /* text-align: center; */
+}
+
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* align-items: left;
+  justify-content: left; */
+  font-size: calc(10px + 2vmin);
+  color: whitesmoke;
+}
+
+.errors{
+  color:red;
+}
+
+  
+#roll,#fname,#lname,#ffname,#mob,#age,#dept,#bat,#mail,#country{
+  padding: 12px 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left:5%;
+  margin-right: auto;
+  width: 30%;
+  margin-block-start: 10px;
+  box-sizing: border-box;
+  background-color: thistle;
+}
+.button{
+  margin: 20px 20px;
+  padding: 15px 32px;
+  width:100%;
+  display: inline-block;
+  color:chartreuse;
+  height: max-content;
+  font-size: x-large;
+  font-weight: 400;
+}
+input{
+  padding: 2px 2px;
+  width: 30%;
+  background-color: thistle;
+  font-weight: bolder;
+}
+label{
+  padding: 12px 12px 12px 0;
+  width: 240px;
+  display: inline-block;
+  margin-left: 5%;
+  
+}
+textarea{
+  font-size: larger;
+  font-weight: bolder;
+  font-style: initial;
+}
+input[type=submit]
+{
+  height:10px;
+  padding:12px 20px;
+  border:blanchedalmond;
+  max-width: 30px;
+}
+
+
+
+
